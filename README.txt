@@ -1,3 +1,3 @@
-This is where I'll be saving all my assignments
+This i where I'll be saving all my assignments, but a slight change
 
 Also, call this as a public repository. Coz i can't afford private ones
